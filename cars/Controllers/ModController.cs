@@ -3,57 +3,54 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Services;
-using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Models;
+using Services;
 
 namespace cars.Controllers
 {
-    public class CarsController : Controller
+    public class ModController : Controller
     {
-        private readonly ICarService _service;
         private readonly IModelService _modelService;
-        public CarsController(ICarService service, IModelService modelService)
+        public ModController(IModelService modelService)
         {
             _modelService = modelService;
-            _service = service;
         }
         [HttpGet]
-        [Route("allcars")]
+        [Route("allmodels")]
         public IActionResult Index()
         {
-            return Ok((_service.GetAllCars(), _modelService.GetAllModels()));
+            return Ok(_modelService.GetAllModels());
 
-            
+
         }
         [HttpPost]
-        [Route("newcar")]
-        public IActionResult NewCar([FromBody] Car car)
+        [Route("newmodel")]
+        public IActionResult NewModel([FromBody] Modelcar modelcar)
         {
-            return Ok(_service.AddNewCar(car));
+            return Ok(_modelService.AddNewModel(modelcar));
         }
         [HttpGet("{id}")]
         [Route("newcar-by-id")]
         public IActionResult GetOneCar(int id)
         {
             return Ok(
-               _service.GetById(id)
+               _modelService.GetModelById(id)
                );
         }
 
         [HttpPut]
         [Route("put-car")]
-        public IActionResult Put([FromBody]Car car)
+        public IActionResult Put([FromBody]Modelcar modelcar)
         {
             return Ok(
-                _service.UpdateCar(car));
+                _modelService.UpdateModel(modelcar));
         }
         [HttpDelete("{id}")]
         [Route("del-car")]
         public IActionResult Delete(int id)
         {
             return Ok(
-                _service.DeleteCar(id));
+                _modelService.DeleteModel(id));
         }
     }
 }

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\cars\\Models\\Models.csproj",
+      "projectUniqueName": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\cars-copy\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\cars\\Models\\Models.csproj",
+      "projectPath": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\cars-copy\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\Gleb\\.nuget\\packages\\",
-      "outputPath": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\cars\\Models\\obj\\",
+      "outputPath": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\cars-copy\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gleb\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ namespace Services
             bool AddNewCar(Car car);
             Car GetById(int id);
             bool UpdateCar(Car car);
-            bool DeleteCar(int id)
+            bool DeleteCar(int id);
         }
         public class CarService: ICarService
         {
@@ -74,7 +74,7 @@ namespace Services
 
                     originalModel.Price = car.Price;
 
-                    originalModel.DateTimeNewCar = new DateTime();
+                    originalModel.DateTimeNewCar = car.DateTimeNewCar;
                     originalModel.Quantity = car.Quantity;
                     originalModel.ModelcarId = car.ModelcarId;
                     _db.Update(originalModel);

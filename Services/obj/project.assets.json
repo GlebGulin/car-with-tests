@@ -8102,11 +8102,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\Cars\\Services\\Services.csproj",
+      "projectUniqueName": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\cars-copy\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\Cars\\Services\\Services.csproj",
+      "projectPath": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\cars-copy\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Gleb\\.nuget\\packages\\",
-      "outputPath": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\Cars\\Services\\obj\\",
+      "outputPath": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\cars-copy\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gleb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8122,8 +8122,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "F:\\LearnProgramming\\Execution\\Core\\awwcor\\Cars\\Binding\\Binding.csproj": {
-              "projectPath": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\Cars\\Binding\\Binding.csproj"
+            "F:\\LearnProgramming\\Execution\\Core\\awwcor\\cars-copy\\Binding\\Binding.csproj": {
+              "projectPath": "F:\\LearnProgramming\\Execution\\Core\\awwcor\\cars-copy\\Binding\\Binding.csproj"
             }
           }
         }

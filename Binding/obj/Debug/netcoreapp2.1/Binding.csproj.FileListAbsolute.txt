@@ -10,3 +10,15 @@ F:\LearnProgramming\Execution\Core\awwcor\Cars\Binding\obj\Debug\netcoreapp2.1\B
 F:\LearnProgramming\Execution\Core\awwcor\Cars\Binding\obj\Debug\netcoreapp2.1\Binding.csproj.CopyComplete
 F:\LearnProgramming\Execution\Core\awwcor\Cars\Binding\obj\Debug\netcoreapp2.1\Binding.dll
 F:\LearnProgramming\Execution\Core\awwcor\Cars\Binding\obj\Debug\netcoreapp2.1\Binding.pdb
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\bin\Debug\netcoreapp2.1\Binding.deps.json
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\bin\Debug\netcoreapp2.1\Binding.dll
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\bin\Debug\netcoreapp2.1\Binding.pdb
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\bin\Debug\netcoreapp2.1\Models.dll
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\bin\Debug\netcoreapp2.1\Models.pdb
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\obj\Debug\netcoreapp2.1\Binding.csprojAssemblyReference.cache
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\obj\Debug\netcoreapp2.1\Binding.csproj.CoreCompileInputs.cache
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\obj\Debug\netcoreapp2.1\Binding.AssemblyInfoInputs.cache
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\obj\Debug\netcoreapp2.1\Binding.AssemblyInfo.cs
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\obj\Debug\netcoreapp2.1\Binding.csproj.CopyComplete
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\obj\Debug\netcoreapp2.1\Binding.dll
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Binding\obj\Debug\netcoreapp2.1\Binding.pdb

@@ -3,9 +3,9 @@ using Services;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Xunit;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
+using Xunit;
+
 using Binding;
 
 namespace App.Tests
