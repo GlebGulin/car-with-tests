@@ -31,7 +31,7 @@ namespace cars.Controllers
         }
         [HttpGet("{id}")]
         [Route("newcar-by-id")]
-        public IActionResult GetOneCar(int id)
+        public IActionResult GetOneModel(int id)
         {
             return Ok(
                _modelService.GetModelById(id)

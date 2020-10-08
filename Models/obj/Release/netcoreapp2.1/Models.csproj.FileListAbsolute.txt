@@ -1,0 +1,4 @@
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Models\obj\Release\netcoreapp2.1\Models.csprojAssemblyReference.cache
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Models\obj\Release\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Models\obj\Release\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\Models\obj\Release\netcoreapp2.1\Models.AssemblyInfo.cs

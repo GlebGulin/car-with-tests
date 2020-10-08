@@ -40,3 +40,4 @@ F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Debug\netcoreapp2.1
 F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Debug\netcoreapp2.1\cars.csproj.CopyComplete
 F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Debug\netcoreapp2.1\cars.dll
 F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Debug\netcoreapp2.1\cars.pdb
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

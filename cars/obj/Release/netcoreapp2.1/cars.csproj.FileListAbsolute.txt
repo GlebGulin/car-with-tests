@@ -1,0 +1,7 @@
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Release\netcoreapp2.1\cars.csprojAssemblyReference.cache
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Release\netcoreapp2.1\cars.csproj.CoreCompileInputs.cache
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Release\netcoreapp2.1\cars.RazorAssemblyInfo.cache
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Release\netcoreapp2.1\cars.RazorAssemblyInfo.cs
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Release\netcoreapp2.1\cars.AssemblyInfoInputs.cache
+F:\LearnProgramming\Execution\Core\awwcor\cars-copy\cars\obj\Release\netcoreapp2.1\cars.AssemblyInfo.cs
